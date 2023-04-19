@@ -10,6 +10,7 @@
 - ⚡ Fun fact [Mobile web was written in 7th grade more than 10 years ago](https://sieuquayks.wap.sh/)
 
 - 🌱 I’m currently learning **typescript, nextjs**
+- 📝 Ongoing projects **work management,clone facebook**
 
 - 📫 How to reach me **hoangtuansanji@gmail.com**
 
