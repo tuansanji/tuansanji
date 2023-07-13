@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoang Minh Tuan</h1>
 <h3 align="center">Young programmer passionate about creativity</h3>
 
-- 🔭I am currently studying at **Mindx technology school**
 
 - 📄 Know about my experiences **Start studying from July 2022 at mindx technology school**
 
